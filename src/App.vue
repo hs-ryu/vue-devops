@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to 류현선 vue" />
   </div>

@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="App">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="테스트 성공" />
   </div>

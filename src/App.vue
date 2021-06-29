@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to 류현선 vue" />
+    <HelloWorld msg="테스트 성공" />
   </div>
 </template>
 
